@@ -6,3 +6,5 @@ README file modified by pmendezv
 README file improved version
 ---
 This new line should be present every where
+---
+This line is added by pmendezv
