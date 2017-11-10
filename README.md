@@ -5,4 +5,4 @@ By Pep Mendez
 ---
 e-mail: jmendez1@xtec.cat
 ---
-http://xtec.com
+http://xtec.cat
