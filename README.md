@@ -12,3 +12,4 @@ This line is added by jmendezv
 ---
 Contact me should I be of further help
 issue 32 implemented
+jemdnez1@xtec.cat
